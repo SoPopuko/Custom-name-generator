@@ -1,6 +1,8 @@
-- add custom needs for the name
 - get an big list with gender, length?
 - add a switch button for darkmode
 - fix darkmode CSS
 - create button component
 - remove vue example components
+
+Evolutions :
+Add country specification in form
