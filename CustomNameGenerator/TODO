@@ -1,8 +1,13 @@
 - get an big list with gender, length?
 - add a switch button for darkmode
 - fix darkmode CSS
-- create button component
-- remove vue example components
+- change name for "Custom everything generator"
+- add random color
+- add random theme
 
 Evolutions :
 Add country specification in form
+
+
+add to notion :
+icons https://oh-vue-icons.js.org/

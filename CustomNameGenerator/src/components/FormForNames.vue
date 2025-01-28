@@ -45,8 +45,8 @@
 
 <script>
 import namesData from '../assets/NamesData.json'
-import ButtonComponent from './ButtonComponent.vue';
-import InputRadioComponent from './InputRadioComponent.vue';
+import ButtonComponent from './buttons/ButtonComponent.vue';
+import InputRadioComponent from './forms-items/InputRadioComponent.vue';
 
 export default {
   components: {
